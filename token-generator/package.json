@@ -1,0 +1,16 @@
+{
+  "name": "token-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "getstream": "^8.4.1",
+    "stream-chat": "^8.40.1"
+  }
+}
